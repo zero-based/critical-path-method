@@ -10,7 +10,7 @@ In alphabetical order:
 
 | Name             | Account                                                      |
 | ---------------- | ------------------------------------------------------------ |
-| Michael Safwat   | -                                                            |
+| Michael Safwat   | [@MichaelSafwatHanna](https://github.com/MichaelSafwatHanna) |
 | Micheline Medhat | -                                                            |
 | Mina Ossama      | -                                                            |
 | Monica Atef      | -                                                            |
