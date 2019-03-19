@@ -14,7 +14,7 @@ In alphabetical order:
 | Micheline Medhat | -                                                            |
 | Mina Ossama      | -                                                            |
 | Monica Atef      | -                                                            |
-| Youssef Raafat   | -                                                            |
+| Youssef Raafat   | [@YoussefRaafatNasry](https://github.com/YoussefRaafatNasry) |
 
 ---
 
