@@ -11,7 +11,7 @@ In alphabetical order:
 | Name             | Account                                                      |
 | ---------------- | ------------------------------------------------------------ |
 | Michael Safwat   | [@MichaelSafwatHanna](https://github.com/MichaelSafwatHanna) |
-| Micheline Medhat | -                                                            |
+| Micheline Medhat | [@MichelineMedhat](https://github.com/MichelineMedhat)       |
 | Mina Ossama      | -                                                            |
 | Monica Atef      | -                                                            |
 | Youssef Raafat   | [@YoussefRaafatNasry](https://github.com/YoussefRaafatNasry) |
